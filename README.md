@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Mohamed Musharaf]
+# Hi there 👋, I'm Mohamed Musharaf
 
 ## 🚀 Full Stack Developer
 
@@ -10,7 +10,7 @@ Passionate Full Stack Developer with experience in building scalable web applica
 
 * 💼 Full Stack Developer
 * 🌱 Currently learning **DSA, Advanced React, and System Design**
-* ⚡ Interested in **MERN Stack, Laravel, Node.js, and React**
+* ⚡ Interested in **MERN Stack, Node.js, and React and Postgres**
 * 🎯 Goal: Crack top MNC interviews and become a strong software engineer
 * 📚 Always learning and improving coding skills
 * 🎥 Interested in content creation and tech-related learning
@@ -22,7 +22,6 @@ Passionate Full Stack Developer with experience in building scalable web applica
 ### Frontend
 
 * React.js
-* Next.js
 * JavaScript (ES6+)
 * TypeScript
 * Tailwind CSS
@@ -34,8 +33,6 @@ Passionate Full Stack Developer with experience in building scalable web applica
 
 * Node.js
 * Express.js
-* Laravel
-* PHP
 
 ### Database
 
@@ -49,7 +46,6 @@ Passionate Full Stack Developer with experience in building scalable web applica
 * Postman
 * VS Code
 * Docker
-* Linux
 * Firebase
 * REST APIs
 
